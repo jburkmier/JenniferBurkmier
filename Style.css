@@ -1,0 +1,109 @@
+html{
+    background-color:#b4b4b8;
+    font-family: raleway, sans-serif;
+}
+
+h1{
+    background-color:#f8f8f8;
+    text-align: left;
+    border: 5px solid #a2a2a6;
+    padding: 20px;
+    font-family: raleway, sans-serif;
+    font-weight: 700;
+    font-size: xx-large;
+    width: 70%;
+}
+
+h2{
+    text-align:center;
+    font-family: raleway, sans-serif;
+    font-weight: 550;
+    font-size: xx-large;
+}
+
+h3{
+    font-family: raleway, sans-serif;
+    font-weight: 400;
+}
+
+#JennyPic{
+    display: inline-block; 
+    border:  5px solid #C7C8CC;
+    width: 200px;
+    height: 300px;
+}
+
+.linkbutton{
+    background-color: #dadadc;
+    text-align: center;
+    border: 5px solid #a2a2a6;
+    margin: 5px 0px;
+    padding: 10px;
+    font-size: large;
+}
+
+.quicksand {
+font-family: "Quicksand", sans-serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: light;
+}
+
+.raleway-uniquifier {
+font-family: "Raleway", sans-serif;
+font-optical-sizing: auto;
+font-weight: 100;
+font-style: normal;
+}
+
+.textbox{
+    background-color: #E3E1D9;
+    border: 5px solid #B4B4B8;
+    margin: 5px 0px;
+    padding: 7px;
+    font-size:x-large;
+}
+
+.welcome{
+    background-color: #f0f0f1;
+    border: 5px solid #a2a2a6;
+    padding: 15px;
+    font-size: x-large;
+    font-weight: 500;
+    width: 45%;
+    margin-left: 25%;
+}
+
+.blogbox{
+    background-color: #f0f0f1;
+    border: 5px solid #a2a2a6;
+    margin: 5px 0px;
+    padding: 7px;
+    font-size: x-large;
+}
+
+.blogpic{
+    width: 75%;
+    height: 75%;
+    margin-left: 15%;
+}
+
+*{
+    color: #363637;
+}
+
+#box{
+    width: 75%;
+    background-color: ;
+    display: inline-block;
+    position:relative;
+    left: 0px;
+    top: 0px;
+    margin: 0px 0px 0px 20px;
+    padding: 10px
+}
+
+.videos{
+
+    margin-left: 40%;
+}
